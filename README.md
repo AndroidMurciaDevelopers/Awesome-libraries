@@ -15,3 +15,4 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 ## Tools
 * **Leak canary** Memory leak detection library for Android and Java. [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
 * **Dagger2** A fast dependency injector for Android and Java. [http://google.github.io/dagger/](http://google.github.io/dagger/)
+* **ButterKnife** View "injection" library for Android. [http://jakewharton.github.io/butterknife/](http://jakewharton.github.io/butterknife/)
