@@ -16,6 +16,7 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 ## Views
 * **Lock9View** An Android grid lock screen view with a callback interface. [https://github.com/TakWolf/Android-Lock9View](https://github.com/TakWolf/Android-Lock9View)
 * **AVLoadingIndicatorView** Nice loading animations for Android. [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+* **AppIntro** Android Library that helps you make a cool intro for your app, like the ones in Google apps. [https://github.com/PaoloRotolo/AppIntro](https://github.com/PaoloRotolo/AppIntro)
 
 ## Tools
 * **Leak canary** Memory leak detection library for Android and Java. [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
