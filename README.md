@@ -4,6 +4,7 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 ## Libraries
 * [Network](#network)
 * [Images](#images)
+* [Views](#views)
 * [Development tools](#tools)
 
 ## Network
@@ -11,6 +12,10 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 
 ## Images
 * **Picasso** A powerful image downloading and caching library for Android [http://square.github.io/picasso/](http://square.github.io/picasso/)
+
+## Views
+* **Lock9View** An Android grid lock screen view with a callback interface. [https://github.com/TakWolf/Android-Lock9View](https://github.com/TakWolf/Android-Lock9View)
+* **AVLoadingIndicatorView** Nice loading animations for Android. [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 
 ## Tools
 * **Leak canary** Memory leak detection library for Android and Java. [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
