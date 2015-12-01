@@ -9,6 +9,7 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 
 ## Network
 * **Retrofit** Type-safe HTTP client for Android and Java by Square, Inc. [http://square.github.io/retrofit/](http://square.github.io/retrofit/)
+* **Loopj** An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries. [http://loopj.com/android-async-http/](http://loopj.com/android-async-http/)
 
 ## Images
 * **Picasso** A powerful image downloading and caching library for Android [http://square.github.io/picasso/](http://square.github.io/picasso/)
