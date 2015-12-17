@@ -13,6 +13,7 @@ A curated list of awesome Android libraries, made with :heart: by the group of d
 
 ## Images
 * **Picasso** A powerful image downloading and caching library for Android [http://square.github.io/picasso/](http://square.github.io/picasso/)
+* **GestureViews** A simple-to-integrate view to apply gestures to ImageViews. [https://github.com/alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)
 
 ## Views
 * **Lock9View** An Android grid lock screen view with a callback interface. [https://github.com/TakWolf/Android-Lock9View](https://github.com/TakWolf/Android-Lock9View)
